@@ -1,0 +1,22 @@
+21
+Almeria 7.16 0.22
+Granada 5.42 0.54
+Cadiz 2.84 0
+Huelva 1.7 0.6
+Sevilla 3.46 0.92
+Jaen 4.92 1.86
+Murcia 7.56 1.4
+Caceres 2.84 4.08
+Badajoz 2.58 2.54
+Albacete 6.98 2.62
+Valencia 8.3 3.18
+Madrid 5.42 4.14
+Barcelona 9.9 5.24
+Gerona 11.06 6.44
+Lerida 9.22 6.9
+Zaragoza 7.56 5.5
+Bilbao 6.18 7.36
+Oviedo 3.94 7.36
+Valladolid 4.28 5.36
+Vigo 1.4 6.18
+Corunya 1.78 7.36
